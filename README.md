@@ -1,2 +1,1 @@
-# module2-solution
-this is a sample project
+# solution module 2 assignment
